@@ -71,32 +71,6 @@ lines:
 
 me-img: "/img/me.png"
 
-# To use facebook profile pic comment the previous line and uncomment the following
-# line, and replace 'user_id' with your facebook user id.
-# Facebook user id can be found by clicking on your profile pic and the large number
-# in the end of the url just before '&type' is your user id.
-# Note: fbid is not the same as user id and user id only contains numbers
-
-# me-img: "https://graph.facebook.com/user_id/picture?type=large&width=500&height=500"
-
-# To use github profile pic uncomment the following line and replace 'user_name'
-# with your github user name.
-
-# me-img: "https://github.com/user_name.png?size=500"
-
-# To use gravatar profile pic uncomment the following line and replace 'email_hash'
-# with your gravatar profile email hash.
-# You can create the email hash by using an online tool like 'http://www.md5hashgenerator.com/'
-# just enter your email and it will generate the hash.
-
-# me-img: "https://www.gravatar.com/avatar/email_hash?s=500"
-
-##############################
-# Color the browser elements #
-##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
-
 ################
 # Web app mode #
 ################
@@ -145,8 +119,8 @@ events:
   - image: "/img/timeline/sppu.jpg"
     date: "2015 - 2018"
     description: "Final Year Student Smt. Kashibai Navale College of Engineering (Bachelor of Engineering in Computer Engineering)
-                  ^500<br />Grade: First Class with Distinction
-                  ^500<br />GPA: 9.05/10"
+                  ^500<br/>Grade: First Class with Distinction
+                  ^500<br/>GPA: 9.05/10"
   
   - image: "/img/timeline/khs.png"
     date: "2013 - 2015"
