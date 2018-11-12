@@ -119,8 +119,8 @@ events:
   - image: "/img/timeline/sppu.jpg"
     date: "2015 - 2018"
     description: "Final Year Student Smt. Kashibai Navale College of Engineering (Bachelor of Engineering in Computer Engineering)
-                  ^500<br/>Grade: First Class with Distinction
-                  ^500<br/>GPA: 9.05/10"
+                  <br/>Grade: First Class with Distinction
+                  <br/>GPA: 9.05/10"
   
   - image: "/img/timeline/khs.png"
     date: "2013 - 2015"
