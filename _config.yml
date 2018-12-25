@@ -68,7 +68,7 @@ lines:
 # Bad Jokes
   - text: "These things load in a random order.^500<br />But once you see the same one twice it means they're repeating.^500<br />You can stop after that."
 
-me-img: "/img/me.png"
+me-img: "/img/mypic.jpg"
 
 ################
 # Web app mode #
@@ -131,7 +131,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/me.png"
+timeline-img: "/img/mypic.jpg"
 
 ###########
 # Contact #
@@ -149,7 +149,7 @@ phone: "8390278664"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Shubham Deshpande"
-author_blurb_image: "/img/me.png"
+author_blurb_image: "/img/mypic.jpg"
 
 ##################
 # Social Buttons #
