@@ -115,7 +115,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/utd.jpg"
+  - image: "/img/timeline/utd.png"
     date: "2019 - 2021"
     description: "The University of Texas at Dallas (Masters of Science in Computer Science)"  
 
