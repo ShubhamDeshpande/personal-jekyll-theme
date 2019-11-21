@@ -115,9 +115,13 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/utd.jpg"
+    date: "2019 - 2021"
+    description: "The University of Texas at Dallas (Masters of Science in Computer Science)"  
+
   - image: "/img/timeline/sppu.jpg"
-    date: "2015 - 2018"
-    description: "Final Year Student Smt. Kashibai Navale College of Engineering (Bachelor of Engineering in Computer Engineering)
+    date: "2015 - 2019"
+    description: "Smt. Kashibai Navale College of Engineering (Bachelor of Engineering in Computer Engineering)
                   <br/>Grade: First Class with Distinction
                   <br/>GPA: 9.05/10"
   
